@@ -1,4 +1,4 @@
- <h1>Bem vindo ao meu perfil! 👋</h1>
+ <h1>Welcome to my profile 👋</h1>
 
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/windisley-lima-ab9447221/)
  
